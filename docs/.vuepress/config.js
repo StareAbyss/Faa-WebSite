@@ -13,7 +13,7 @@ module.exports = {
       { text: "主页", link: "/" }
     ],
 
-    // 手动路由
+    // 手动侧边栏路由
     sidebar: [
       {
         title: '快速开始 - 从入门到神殿',
