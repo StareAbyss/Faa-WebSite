@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "vue-template-compiler": "^2.7.16"
-  },
-  "dependencies": {
-    "vuepress-theme-sidebar": "^0.1.0"
-  }
-}
