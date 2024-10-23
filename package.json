@@ -1,8 +1,21 @@
 {
-  "devDependencies": {
-    "vue-template-compiler": "^2.7.16"
+  "name": "faa-website",
+  "description": "FAA-WebSite",
+  "version": "1.0.0",
+  "license": "AGPL-3.0",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-webpack build src",
+    "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
+    "docs:dev": "vuepress-webpack dev src",
+    "docs:update-package": "npx vp-update"
   },
-  "dependencies": {
-    "vuepress-theme-sidebar": "^0.1.0"
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-rc.18",
+    "sass-embedded": "^1.79.5",
+    "vue": "^3.5.12",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-theme-hope": "2.0.0-rc.59",
+    "sass-loader": "^16.0.2"
   }
 }
