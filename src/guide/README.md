@@ -1,16 +1,21 @@
 ---
-title: 指南
+title: FAA Web文档
 icon: lightbulb
 ---
 
+您可以根据您的需求，阅读不同部分的文档！
+
 ## 功能亮点
 
-### Bar
+### 新手入门
 
-- [baz](bar/baz.md)
+- [兼容性](start_quickly/baz.md)
 - ...
 
-### Foo
+### 深入使用
 
 - [ray](foo/ray.md)
 - ...
+
+### 参与开发
+
