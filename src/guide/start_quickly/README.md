@@ -12,4 +12,4 @@ FAA是一款_______的软件.
 
 - [系统兼容性](compatibility.md)
 - [下载和安装](download.md)
-- []
+- [除错指南](error.md)

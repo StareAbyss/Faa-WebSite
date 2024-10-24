@@ -9,8 +9,9 @@ icon: lightbulb
 
 ### 新手入门
 
-- [兼容性](start_quickly/baz.md)
-- ...
+- [兼容性](start_quickly/compatibility.md)
+- [下载和安装](start_quickly/download.md)
+- [遭遇问题](start_quickly/error.md)
 
 ### 深入使用
 
@@ -18,4 +19,6 @@ icon: lightbulb
 - ...
 
 ### 参与开发
+
+- [项目 GitHub Flow 流程](development/github_flow.md)
 

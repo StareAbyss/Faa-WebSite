@@ -1,13 +1,14 @@
 ---
-title: Bar 功能
+title: 欢迎! 开发者!
 icon: lightbulb
 ---
 
 ## 介绍
 
-我们支持 bar 功能，...
+FAA是一款开源软件，我们欢迎任何人加入并参与FAA的开发！
 
 ## 详情
 
-- [baz](baz.md)
+- [项目 GitHub Flow 流程](github_flow.md)
 - ...
+- 
